@@ -1,0 +1,18 @@
+[submodule "TS3Bot"]
+	path = TS3Bot
+	url = git@github.com:davidsluo/TS3Bot.git
+[submodule "DiscordBot.java"]
+	path = DiscordBot.java
+	url = git@github.com:davidsluo/DiscordBot.java.git
+[submodule "Discord-Bot"]
+	path = Discord-Bot
+	url = git@github.com:davidsluo/Discord-Bot.git
+[submodule "DiscordBot.py"]
+	path = DiscordBot.py
+	url = git@github.com:davidsluo/DiscordBot.py.git
+[submodule "discordion"]
+	path = discordion
+	url = git@github.com:davidsluo/discordion.git
+[submodule "SoundBert"]
+	path = SoundBert
+	url = git@github.com:davidsluo/SoundBert.git
